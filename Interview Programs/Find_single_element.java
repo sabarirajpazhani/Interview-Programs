@@ -18,3 +18,18 @@ public class Solution {
 }
 
 
+// Sample Input 1:
+// 5
+// 1 1 2 2 3
+
+
+// Sample Output 1:
+// 3
+
+
+// Explanation of sample output 1:
+// {1, 2} each occurs twice, whereas 3 occurs only once.
+// Hence the answer is 3.
+
+
+//LINK: https://www.naukri.com/code360/problems/find-the-single-element_6680465?interviewProblemRedirection=true&practice_topic%5B%5D=Arrays&difficulty%5B%5D=Easy&leftPanelTabValue=PROBLEM
